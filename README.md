@@ -49,10 +49,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarun010&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akarun010&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
