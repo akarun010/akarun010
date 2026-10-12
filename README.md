@@ -57,10 +57,6 @@ Explore my repositories: [github.com/akarun010](https://github.com/akarun010)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarun010&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akarun010&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ### 🤝 Connect With Me
 
 <p align="left">
