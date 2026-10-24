@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Real-World+Backend+Projects;Learning+Something+New+Every+Day" alt="Typing animation"/>
 </div>
 
----
+--- 
 
 ## 👨‍💻 About Me
 
