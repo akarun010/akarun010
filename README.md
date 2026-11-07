@@ -1,75 +1,90 @@
-<!-- Animated Header -->
+ <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Arun%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer&descAlignY=55&descSize=18" width="100%" alt="Animated profile header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00B4DB&height=200&section=header&text=Arun%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Real-World+Backend+Projects;Learning+Something+New+Every+Day" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer;Linux+%7C+Docker+%7C+AWS;Bash+Scripting+%7C+Python;Learning+Cloud+%26+Automation;Building+My+DevOps+Journey" />
 </div>
 
---- 
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Diploma Student
-- ☕ Focused on **Java Backend Development**
-- 🌱 Building applications using **Spring Boot, Spring Data JPA, Hibernate, and MySQL**
-- 🔐 Exploring backend security with **Spring Security and JWT**
-- 🛒 Currently working on an **E-Commerce Backend REST API**
-- 🧪 Practicing unit testing with **JUnit and Mockito**
-- 🚀 Planning to explore **Microservices, DevOps, and AI integration**
-- ⚡ I believe in learning by building real-world projects.
+- 🎓 Computer Science Engineering Diploma Student.
+- 🚀 Aspiring **DevOps Engineer** passionate about Cloud Computing and Automation.
+- 🐧 Learning Linux, Networking, Git, Bash Scripting and Docker.
+- ☁️ Hands-on experience with AWS services including EC2, S3, VPC, RDS and Lambda.
+- 🐍 Exploring Python for automation and scripting.
+- 🔧 Interested in CI/CD, Infrastructure as Code and Cloud Infrastructure.
+- ⚡ Believe in learning by building real-world projects.
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,git,github,eclipse,html,css,js,react&perline=6" alt="Languages and tools"/>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,python,mysql,java,spring&perline=5" />
+
 </div>
 
-## 🚀 Featured Projects
+## ☁️ AWS Experience
 
-- 🛒 **E-Commerce Backend REST API** — Spring Boot, Spring Data JPA, Hibernate, MySQL, Spring Security, JWT, and testing.
-- 📦 **Product Inventory REST API** — Product CRUD operations, stock management, and filtering.
-- 🏦 **Bank Account REST API** — Account management, deposits, withdrawals, and transfers.
-- 👨‍💼 **Employee Management REST API** — RESTful CRUD operations using Spring Boot.
+- IAM – Identity and Access Management
+- EC2 – Virtual Server Management
+- S3 – Object Storage and Versioning
+- VPC – Virtual Private Cloud
+- RDS – Managed MySQL Database
+- Lambda – Serverless Computing
+- CloudWatch – Monitoring and Logging (hands-on practice in progress)
 
-<p align="center">
-  <a href="https://github.com/akarun010?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-  </a>
-</p>
+## 📚 DevOps Learning Journey
 
-## 📊 GitHub Stats
+- [x] Linux Fundamentals
+- [x] Networking Fundamentals
+- [x] Git & GitHub
+- [x] Bash Scripting
+- [x] Docker
+- [x] AWS Cloud Fundamentals and Hands-on Practice
+- [ ] AWS CloudWatch Hands-on Practice
+- [ ] Integrated AWS Deployment Project
+- [ ] Python Automation
+- [ ] GitHub Actions – CI/CD
+- [ ] Terraform – Infrastructure as Code
+- [ ] Kubernetes
+- [ ] Helm
+- [ ] Prometheus & Grafana
+- [ ] DevOps Security
+- [ ] GitOps with Argo CD
+
+## 🚀 Projects
+
+- ☁️ **AWS Cloud Practice** – Hands-on experience with EC2, S3, VPC, RDS and Lambda.
+- 🐳 **Docker Full-Stack Application** – Containerization and multi-container application deployment using Docker Compose.
+- 🗄️ **Spring Boot Task API with AWS RDS** – Connected a Spring Boot application to AWS RDS MySQL and tested CRUD operations and persistence.
+- 🐍 **Python Server Management CLI** – Practicing server management operations using Python.
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akarun010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarun010&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akarun010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarun010&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://github.com/akarun010">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/akarunkumar010">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/arun_kumar_ak_56">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:akarunff0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+connect+and+build+together!;Open+to+learning+and+collaboration;One+commit+at+a+time+%F0%9F%9A%80" alt="Animated social message"/>
 </div>
 
 ---
 
 <div align="center">
-  <h3>💻 Building my future, one commit at a time.</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Animated footer"/>
+  <h3>🚀 Learning. Building. Automating. Improving.</h3>
+  <i>Building my future, one commit at a time.</i>
 </div>
