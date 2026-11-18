@@ -69,13 +69,6 @@
 - 🌐 **AWS Practice Labs**: Custom VPC with public/private subnets, ALB with multiple targets, ECR image push/pull on EC2, and Lambda with a Function URL.
 - 🐍 **Python Server Management CLI**: Practicing server management operations with Python.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=akarun010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akarun010&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 🤝 Connect With Me
