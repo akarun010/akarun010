@@ -1,88 +1,75 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00B4DB&height=200&section=header&text=Arun%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer&descAlignY=55&descSize=18)
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,40:0284C7,100:7C3AED&height=180&section=header&text=Arunkumar%20S&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descSize=18&descAlignY=58&descColor=38BDF8" width="100%" alt="Arunkumar S Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer;Linux+%7C+Docker+%7C+AWS;Bash+Scripting+%7C+Python;Building+my+DevOps+journey)](https://github.com/akarun010)
+  <!-- Animated Real-time Typing Effect -->
+  <a href="https://github.com/akarun010">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%91%8B+Hi%2C+welcome+to+my+DevOps+space!;%E2%9A%A1+Architecting+resilient+AWS+infrastructure;%F0%9F%90%B3+Containerizing+services+with+Docker+%26+Compose;%E2%8C%B8%EF%B8%8F+Orchestrating+clusters+with+Kubernetes+%26+Helm;%F0%9F%9B%A0%EF%B8%8F+Automating+with+Jenkins%2C+Terraform+%26+Argo+CD;%F0%9F%8E%AF+100%25+DevOps+Learning+Roadmap+Completed;%F0%9F%92%BC+Open+to+Entry-Level+%26+Junior+Opportunities!" alt="Typing Banner" />
+  </a>
+
+  <br/>
+
+  <!-- Status & Verified Social Badges (Twitter & YT Removed) -->
+  <p align="center">
+    <a href="mailto:akarunff0@gmail.com"><img src="https://img.shields.io/badge/Email-akarunff0%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="tel:+919566916270"><img src="https://img.shields.io/badge/Phone-%2B91_9566916270-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+    <a href="https://linkedin.com/in/akarunkumar010"><img src="https://img.shields.io/badge/LinkedIn-Arunkumar_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/arun_kumar_ak_56"><img src="https://img.shields.io/badge/Instagram-arun__kumar__ak__56-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <img src="https://img.shields.io/badge/Status-Open_To_Work-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+  </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### ⚡ Terminal Overview
 
-- 🎓 Computer Science Engineering Diploma student from Tamil Nadu, India
-- 🚀 Aspiring **DevOps Engineer** passionate about Cloud Computing and Automation
-- 🐧 Strong foundation in Linux, Networking, Git, Bash Scripting and Docker
-- ☁️ Hands-on with AWS: IAM, EC2, S3, VPC, RDS, ALB, ECR and Lambda
-- 🐍 Exploring Python for automation and scripting
-- 🔧 Next up: CI/CD, Infrastructure as Code and Kubernetes
-- ⚡ I learn by building real-world projects
+```bash
+arun@devops-cloud:~$ cat profile.json
+```
 
-## 🛠️ Tech Stack
-
-[![Tech Stack](https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,python,mysql&perline=8)](https://skillicons.dev)
-
-| Area | Tools |
-| --- | --- |
-| **OS & Scripting** | Linux, Bash, Python (learning) |
-| **Version Control** | Git, GitHub |
-| **Containers** | Docker, Docker Compose, multi-stage builds |
-| **Cloud** | AWS (IAM, EC2, S3, VPC, RDS, ALB, ECR, Lambda, CloudWatch) |
-| **Next** | GitHub Actions, Terraform, Kubernetes, Helm, Prometheus, Grafana, Argo CD |
-
-## ☁️ AWS Experience
-
-- **IAM**: users and custom least-privilege policies
-- **EC2**: Linux and Windows instances, SSH and Remote Desktop access
-- **S3**: buckets, versioning and object storage
-- **VPC**: custom VPC with public/private subnets, internet gateway, route tables and a jump host
-- **RDS**: managed MySQL database in a private subnet
-- **ALB**: load balancer with target groups across two availability zones
-- **ECR**: pushing and pulling private Docker images
-- **Lambda**: serverless function with environment variables and a Function URL
-- **CloudWatch**: monitoring and logging (hands-on practice in progress)
-
-## 📚 DevOps Learning Journey
-
-- [x] Linux Fundamentals
-- [x] Networking Fundamentals
-- [x] Git & GitHub
-- [x] Bash Scripting
-- [x] Docker
-- [x] AWS Cloud Fundamentals and Hands-on Practice
-- [ ] AWS CloudWatch Hands-on Practice
-- [ ] Integrated Docker + AWS Deployment Project
-- [ ] Python Automation
-- [ ] GitHub Actions (CI/CD)
-- [ ] Terraform (Infrastructure as Code)
-- [ ] Kubernetes
-- [ ] Helm
-- [ ] Prometheus & Grafana
-- [ ] DevOps Security
-- [ ] GitOps with Argo CD
-
-## 🚀 Projects
-
-- 🐳 **Docker Full-Stack Application**: Multi-container app (API, worker, frontend, MySQL, Redis, RabbitMQ, MinIO) with multi-stage Dockerfiles, an nginx image and Docker Compose.
-- 🏦 **Dockerized Bank Account API**: Containerized Spring Boot app with MySQL, run with Docker Compose.
-- ☁️ **Spring Boot Task API on AWS**: Deployed on EC2 and connected to a private AWS RDS MySQL database; tested CRUD operations and persistence.
-- 🌐 **AWS Practice Labs**: Custom VPC with public/private subnets, ALB with multiple targets, ECR image push/pull on EC2, and Lambda with a Function URL.
-- 🐍 **Python Server Management CLI**: Practicing server management operations with Python.
-
-</div>
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akarun010)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarunkumar010)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarunff0@gmail.com)
+```json
+{
+  "name": "Arunkumar S",
+  "title": "DevOps Engineer",
+  "location": "Tamil Nadu, India (Open to Relocation & Remote)",
+  "core_cloud": ["AWS VPC", "EC2", "RDS MySQL", "ALB", "S3", "ECR", "CloudWatch", "IAM"],
+  "containers_and_k8s": ["Docker", "Docker Compose", "Multi-stage Builds", "Kubernetes", "Helm"],
+  "ci_cd_and_iac": ["Jenkins", "Argo CD (GitOps)", "Terraform", "SonarQube", "Trivy"],
+  "observability": ["Prometheus", "Grafana", "OpenTelemetry", "Alertmanager"],
+  "systems_and_code": ["Linux (Ubuntu/Amazon Linux)", "Bash Scripting", "Python", "Git", "React", "Spring Boot"],
+  "availability": "Ready for Entry-Level & Junior DevOps Roles"
+}
+```
 
 ---
+
+### 🛠️ Interactive Toolchain & Skills Matrix
 
 <div align="center">
-
-### 🚀 Learning. Building. Automating. Improving.
-
-*Building my future, one commit at a time.*
-
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,bash,python,git,github,prometheus,grafana,react,spring,mysql,nginx&theme=dark" alt="Skills Matrix Icons" />
 </div>
+
+<br/>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **AWS Cloud Infrastructure** | `Amazon VPC` `EC2 Auto Scaling` `RDS MySQL` `Application Load Balancer (ALB)` `S3` `ECR` `CloudWatch Alarms` `IAM` |
+| **Containers & Orchestration**| `Docker` `Docker Compose` `Multi-Stage Image Optimization` `Kubernetes (K8s)` `Helm Charts` `HPA` |
+| **CI/CD & GitOps** | `Jenkins Pipelines (Declarative)` `Argo CD` `SonarQube Quality Gates` `Trivy CVE Scanning` `GitHub Actions` |
+| **Infrastructure as Code (IaC)** | `Terraform` (Modular Multi-Tier VPC, Security Group Chaining, Remote S3 State Backend & DynamoDB Locking) |
+| **Observability & Telemetry** | `Prometheus` (Metrics Scraping, PromQL) `Grafana Dashboards` `OpenTelemetry` `Node Exporter` `Alertmanager` |
+| **Operating Systems & Scripts** | `Linux (Ubuntu, Amazon Linux)` `Bash Shell Automation` `Python (Boto3 SDK)` `SSH Key Hardening` `Git` |
+
+---
+
+### 🚀 Production Workloads & Featured Projects
+
+#### 1. ⭐ [SpendWise – Full-Stack Expense Tracking Platform (AWS Deployed)](https://github.com/akarun010/spendwise)
+> **Full-stack web application containerized with Docker and deployed on a high-availability AWS VPC architecture.**
+- **Dual-Tier VPC Network (`10.0.0.0/16`)**: Public subnets for Internet-facing Application Load Balancers (ALB) and NAT Gateways; Private subnets for compute hosts and databases.
+- **Docker Compose Orchestration**: Multi-stage Docker builds separating compiler bloat from lightweight Nginx & Alpine JRE production containers.
+- **Managed Amazon RDS MySQL**: Fully isolated in private DB subnet groups with zero public internet exposure.
+- **S3 & Telemetry**: Amazon S3 for receipt storage; CloudWatch alarms monitoring EC2 CPU thresholds and ALB HTTP 5xx errors.
+- **Tech Stack**: `React.js` • `Spring Boot` • `MySQL` • `Docker` • `AWS VPC` • `EC2` • `RDS` • `S3` • `ECR` • `ALB` • `CloudWatch` • `Nginx`
