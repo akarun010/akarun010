@@ -13,7 +13,6 @@
   <!-- Status & Verified Social Badges (Twitter & YT Removed) -->
   <p align="center">
     <a href="mailto:akarunff0@gmail.com"><img src="https://img.shields.io/badge/Email-akarunff0%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="tel:+919566916270"><img src="https://img.shields.io/badge/Phone-%2B91_9566916270-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
     <a href="https://linkedin.com/in/akarunkumar010"><img src="https://img.shields.io/badge/LinkedIn-Arunkumar_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.instagram.com/arun_kumar_ak_56"><img src="https://img.shields.io/badge/Instagram-arun__kumar__ak__56-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <img src="https://img.shields.io/badge/Status-Open_To_Work-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
