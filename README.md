@@ -2,7 +2,7 @@
 
   <!-- Dynamic Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,40:0284C7,100:7C3AED&height=180&section=header&text=Arunkumar%20S&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descSize=18&descAlignY=58&descColor=38BDF8" width="100%" alt="Arunkumar S Header" />
-
+ 
   <!-- Animated Real-time Typing Effect -->
   <a href="https://github.com/akarun010">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%91%8B+Hi%2C+welcome+to+my+DevOps+space!;%E2%9A%A1+Architecting+resilient+AWS+infrastructure;%F0%9F%90%B3+Containerizing+services+with+Docker+%26+Compose;%E2%8C%B8%EF%B8%8F+Orchestrating+clusters+with+Kubernetes+%26+Helm;%F0%9F%9B%A0%EF%B8%8F+Automating+with+Jenkins%2C+Terraform+%26+Argo+CD;%F0%9F%8E%AF+100%25+DevOps+Learning+Roadmap+Completed;%F0%9F%92%BC+Open+to+Entry-Level+%26+Junior+Opportunities!" alt="Typing Banner" />
